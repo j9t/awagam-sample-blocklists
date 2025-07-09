@@ -1,0 +1,10 @@
+{
+  "test": {
+    "context": "",
+    "domains": [
+      "example.com"
+    ],
+    "name": "Test",
+    "urls": []
+  }
+}
