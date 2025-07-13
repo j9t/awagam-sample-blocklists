@@ -1,0 +1,88 @@
+{
+  "china": {
+    "context": "https://en.wikipedia.org/wiki/Persecution_of_Uyghurs_in_China",
+    "domains": [],
+    "name": "China",
+    "tlds": [],
+    "urls": []
+  },
+  "israel": {
+    "context": [
+      "https://en.wikipedia.org/wiki/Gaza_genocide",
+      "https://en.wikipedia.org/wiki/Iran%E2%80%93Israel_war",
+      "https://en.wikipedia.org/wiki/Israeli%E2%80%93Lebanese_conflict",
+      "https://en.wikipedia.org/wiki/Israeli_attacks_on_Yemen_(May_2025%E2%80%93present)",
+      "https://en.wikipedia.org/wiki/Israeli_invasion_of_Syria_(2024%E2%80%93present)",
+      "https://en.wikipedia.org/wiki/Nakba"
+    ],
+    "domains": [
+      "fidf.org",
+      "haaretz.com",
+      "israelhayom.com",
+      "jpost.com",
+      "monday.com",
+      "timesofisrael.com",
+      "wix.com"
+    ],
+    "name": "Israel",
+    "tlds": [
+      ".il",
+      ".xn--4dbrk0ce",
+      ".ישראל"
+    ],
+    "urls": [
+      "https://x.com/IDF",
+      "https://x.com/Israel",
+      "https://x.com/MOSSADil",
+      "https://x.com/israelinuk",
+      "https://x.com/israelipm",
+      "https://x.com/israelmfa",
+      "https://x.com/netanyahu"
+    ]
+  },
+  "myanmar": {
+    "context": "https://en.wikipedia.org/wiki/Rohingya_genocide",
+    "domains": [],
+    "name": "Myanmar",
+    "tlds": [
+      ".mm"
+    ],
+    "urls": []
+  },
+  "russia": {
+    "context": [
+      "https://en.wikipedia.org/wiki/Allegations_of_genocide_of_Ukrainians_in_the_Russo-Ukrainian_War",
+      "https://en.wikipedia.org/wiki/Russo-Ukrainian_War"
+    ],
+    "domains": [
+      "rt.com",
+      "tass.com",
+      "themoscowtimes.com",
+      "vk.com"
+    ],
+    "name": "Russia",
+    "tlds": [
+      ".ru",
+      ".xn--p1ai",
+      ".рф"
+    ],
+    "urls": [
+      "https://x.com/KremlinRussia_E",
+      "https://x.com/governmentrf",
+      "https://x.com/mfa_russia"
+    ]
+  },
+  "sudan": {
+    "context": "https://en.wikipedia.org/wiki/Masalit_massacres_(2023%E2%80%93present)",
+    "domains": [],
+    "name": "Sudan",
+    "tlds": [],
+    "urls": []
+  },
+  "corporate-beneficiaries": {
+    "context": "https://www.ohchr.org/en/documents/country-reports/ahrc5923-economy-occupation-economy-genocide-report-special-rapporteur",
+    "domains": [],
+    "name": "Corporate beneficiaries",
+    "urls": []
+  }
+}

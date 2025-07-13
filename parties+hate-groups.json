@@ -1,0 +1,16 @@
+{
+  "parties": {
+    "context": "",
+    "domains": [
+      "afd.de"
+    ],
+    "name": "Parties",
+    "urls": []
+  },
+  "hate-groups": {
+    "context": "",
+    "domains": [],
+    "name": "Hate groups",
+    "urls": []
+  }
+}
