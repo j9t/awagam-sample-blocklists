@@ -6,6 +6,18 @@
     "tlds": [],
     "urls": []
   },
+  "corporate-beneficiaries": {
+    "context": "https://www.ohchr.org/en/documents/country-reports/ahrc5923-economy-occupation-economy-genocide-report-special-rapporteur",
+    "domains": [],
+    "name": "Corporate beneficiaries",
+    "urls": []
+  },
+  "hate-groups": {
+    "context": "",
+    "domains": [],
+    "name": "Hate groups",
+    "urls": []
+  },
   "israel": {
     "context": [
       "https://en.wikipedia.org/wiki/Gaza_genocide",
@@ -49,6 +61,14 @@
     ],
     "urls": []
   },
+  "parties": {
+    "context": "",
+    "domains": [
+      "afd.de"
+    ],
+    "name": "Parties",
+    "urls": []
+  },
   "russia": {
     "context": [
       "https://en.wikipedia.org/wiki/Allegations_of_genocide_of_Ukrainians_in_the_Russo-Ukrainian_War",
@@ -77,12 +97,6 @@
     "domains": [],
     "name": "Sudan",
     "tlds": [],
-    "urls": []
-  },
-  "corporate-beneficiaries": {
-    "context": "https://www.ohchr.org/en/documents/country-reports/ahrc5923-economy-occupation-economy-genocide-report-special-rapporteur",
-    "domains": [],
-    "name": "Corporate beneficiaries",
     "urls": []
   }
 }
