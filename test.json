@@ -1,0 +1,12 @@
+{
+  "test": {
+    "context": "For testing purposes",
+    "domains": [
+      "example.com",
+      "x.com"
+    ],
+    "name": "Test",
+    "tlds": [],
+    "urls": []
+  }
+}
