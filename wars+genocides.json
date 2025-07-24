@@ -1,0 +1,38 @@
+{
+  "genocides": {
+    "context": [
+      "https://en.wikipedia.org/wiki/Allegations_of_genocide_of_Ukrainians_in_the_Russo-Ukrainian_War",
+      "https://en.wikipedia.org/wiki/Gaza_genocide",
+      "https://en.wikipedia.org/wiki/Masalit_massacres_(2023%E2%80%93present)",
+      "https://en.wikipedia.org/wiki/Persecution_of_Uyghurs_in_China",
+      "https://en.wikipedia.org/wiki/Rohingya_genocide"
+    ],
+    "domains": [],
+    "name": "Random major contemporary genocides",
+    "tlds": [
+      ".il",
+      ".mm",
+      ".ru",
+      ".xn--4dbrk0ce",
+      ".xn--p1ai"
+    ],
+    "urls": []
+  },
+  "wars": {
+    "context": [
+      "https://en.wikipedia.org/wiki/Iran%E2%80%93Israel_war",
+      "https://en.wikipedia.org/wiki/Israeli%E2%80%93Lebanese_conflict",
+      "https://en.wikipedia.org/wiki/Israeli_attacks_on_Yemen_(May_2025%E2%80%93present)",
+      "https://en.wikipedia.org/wiki/Israeli_invasion_of_Syria_(2024%E2%80%93present)",
+      "https://en.wikipedia.org/wiki/Russo-Ukrainian_War"
+    ],
+    "domains": [],
+    "name": "Random major contemporary wars",
+    "tlds": [
+      ".il",
+      ".ru",
+      ".xn--p1ai"
+    ],
+    "urls": []
+  }
+}

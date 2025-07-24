@@ -1,0 +1,20 @@
+{
+  "social-networks": {
+    "context": "",
+    "domains": [
+      "facebook.com",
+      "instagram.com",
+      "snapchat.com",
+      "telegram.org",
+      "threads.com",
+      "truthsocial.com",
+      "tiktok.com",
+      "twitter.com",
+      "vk.com",
+      "x.com"
+    ],
+    "name": "Random major social networks",
+    "tlds": [],
+    "urls": []
+  }
+}
